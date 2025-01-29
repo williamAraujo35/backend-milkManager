@@ -1,0 +1,148 @@
+{
+  "animal": [
+    {
+      "id": "370f",
+      "nomeAnimal": "Jirafa",
+      "dataNascimento": "2024-12-01",
+      "sexo": "macho",
+      "pesoAnimal": "1.04",
+      "raca": "Nelore",
+      "brinco": "4",
+      "lote": "2",
+      "pai": "Pintado",
+      "mae": "Pintada"
+    },
+    {
+      "id": "2eb5",
+      "nomeAnimal": "Baleia",
+      "dataNascimento": "2020-03-26",
+      "sexo": "femea",
+      "pesoAnimal": "210.50",
+      "raca": "Holandes",
+      "brinco": "413",
+      "lote": "1",
+      "pai": "Zebu",
+      "mae": "Sardinha"
+    },
+    {
+      "id": "6f7b",
+      "nomeAnimal": "Bandido",
+      "dataNascimento": "2019-08-04",
+      "sexo": "macho",
+      "pesoAnimal": "250.20",
+      "raca": "Nelore",
+      "brinco": "310",
+      "lote": "1",
+      "pai": "Zebu",
+      "mae": "Luana"
+    },
+    {
+      "id": "e1cc",
+      "nomeAnimal": "Bumbá",
+      "dataNascimento": "2015-05-10",
+      "sexo": "macho",
+      "pesoAnimal": "205.00",
+      "raca": "Anelorado",
+      "brinco": "41",
+      "lote": "2",
+      "pai": "Zebu",
+      "mae": "Velha"
+    },
+    {
+      "id": "9cbb",
+      "nomeAnimal": "Mara",
+      "dataNascimento": "2017-04-08",
+      "sexo": "femea",
+      "pesoAnimal": "195",
+      "raca": "Holandes",
+      "brinco": "59",
+      "lote": "3",
+      "pai": "Ladrão",
+      "mae": "Alemanha"
+    },
+    {
+      "id": "846a",
+      "nomeAnimal": "Inglaterra",
+      "dataNascimento": "2020-09-20",
+      "sexo": "femea",
+      "pesoAnimal": "182",
+      "raca": "Holandes",
+      "brinco": "10",
+      "lote": "3",
+      "pai": "Ladrão",
+      "mae": "Alemanha"
+    },
+    {
+      "id": "ee50",
+      "nomeAnimal": "Mulata",
+      "dataNascimento": "2022-06-13",
+      "sexo": "femea",
+      "pesoAnimal": "158",
+      "raca": "Girolando",
+      "brinco": "12",
+      "lote": "2",
+      "pai": "Ladrão",
+      "mae": "Luana"
+    },
+    {
+      "id": "ec4d",
+      "nomeAnimal": "Ladrão",
+      "dataNascimento": "2015-02-10",
+      "sexo": "macho",
+      "pesoAnimal": "221.00",
+      "raca": "Jersolando",
+      "brinco": "03",
+      "lote": "2",
+      "pai": "Sinistro",
+      "mae": "Antiga"
+    },
+    {
+      "id": "d732",
+      "nomeAnimal": "Zebu",
+      "dataNascimento": "2016-09-21",
+      "sexo": "macho",
+      "pesoAnimal": "217",
+      "raca": "Gir",
+      "brinco": "05",
+      "lote": "1",
+      "pai": "Não se aplica",
+      "mae": "Não se aplica"
+    },
+    {
+      "id": "0ad0",
+      "nomeAnimal": "Zica",
+      "dataNascimento": "2018-10-10",
+      "sexo": "femea",
+      "pesoAnimal": "189",
+      "raca": "Holandes",
+      "brinco": "014",
+      "lote": "3",
+      "pai": "Ladrão",
+      "mae": "Antiga"
+    },
+    {
+      "id": "7c45",
+      "nomeAnimal": "Feijoada",
+      "dataNascimento": "2020-11-04",
+      "sexo": "femea",
+      "pesoAnimal": "181.30",
+      "raca": "Jersey",
+      "brinco": "17",
+      "lote": "3",
+      "pai": "Sinistro",
+      "mae": "Velha"
+    },
+    {
+      "id": "8586",
+      "nomeAnimal": "Louca",
+      "dataNascimento": "2013-08-13",
+      "sexo": "femea",
+      "pesoAnimal": "240",
+      "raca": "Holandes",
+      "brinco": "22",
+      "lote": "2",
+      "pai": "Pintado",
+      "mae": "Pintada"
+    }
+  ]
+}
